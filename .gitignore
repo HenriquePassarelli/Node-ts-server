@@ -1,0 +1,14 @@
+**/node_modules
+**/.eslintcache
+
+
+*/node_modules
+*/.eslintcache
+
+*/package-lock.json
+
+**/dist
+
+**/.env
+
+**/yarn-error.log
