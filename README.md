@@ -1,5 +1,7 @@
 # Node-ts-server
 
+A node express sample
+
 ### Dotenv file
 
 ```
